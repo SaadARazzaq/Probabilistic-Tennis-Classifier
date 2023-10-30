@@ -58,7 +58,7 @@ We welcome contributions and feedback from anyone who wants to make this project
 
 ## 🎩 Credits
 
-This project was crafted with 💖 by [Saad Abdur Razzaq]. If you find it helpful, a little tip of the hat in the form of credit to this repository would be much appreciated.
+This project was crafted with 💖 by [Saad Abdur Razzaq](https://github.com/SaadARazzaq) and [Wasif Anwar](https://github.com/wiznemm). If you find it helpful, a little tip of the hat in the form of credit to this repository would be much appreciated.
 
 Ready to let data guide your tennis game decisions? Let's play some tennis! 🎾🌞
 
